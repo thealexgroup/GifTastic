@@ -1,0 +1,19 @@
+  body {
+      font-family: 'Georgia', Times, Times New Roman, serif;
+      font-size: 16px;
+      background-color: #eaecef;
+  }
+    button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+
+    .myButton {
+      border: solid 1px gray;
+      border-radius: 2px;
+      font-family: 'Georgia', Times, Times New Roman, serif;
+      font-size: 16px;
+    }
+
